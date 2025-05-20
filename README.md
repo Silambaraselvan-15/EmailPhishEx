@@ -1,4 +1,9 @@
-#                                                        EmailPhishEx 
+# currently working on it...wil be Deployed soon
+
+
+
+prcedure and steps are defined
+## EmailPhishEx 
 
 ## A Comprehensive Phishing Email Detection and Reporting System
 
