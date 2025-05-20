@@ -1,6 +1,6 @@
 #                                                        EmailPhishEx 
 
-# A Comprehensive Phishing Email Detection and Reporting System
+## A Comprehensive Phishing Email Detection and Reporting System
 
 ##  Overview
 
